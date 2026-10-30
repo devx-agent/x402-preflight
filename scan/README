@@ -1,0 +1,1 @@
+cdp_resources.json: GET https://api.cdp.coinbase.com/platform/v2/x402/discovery/resources?limit=100&offset=0..2900 (concatenate items).

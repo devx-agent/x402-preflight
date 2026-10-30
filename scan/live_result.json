@@ -1,0 +1,4107 @@
+[
+ {
+  "url": "https://x402tap.com/api/weather",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://pro-api.coingecko.com/api/v3/x402/onchain/search/pools",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://blockrun.ai/api/v1/pm/polymarket/markets",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.0085 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://keyring-agent.blockchhub.link/api/send-native",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.402rates.com/v1/ping",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://minifetch.com/api/v1/x402/preflight/url-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://websearch.use.x402atlas.com/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.bitrefill.com/x402/gift-cards/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 7/7 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": [
+   "asset_not_canonical_usdc",
+   "asset_not_canonical_usdc"
+  ]
+ },
+ {
+  "url": "https://x402.ottoai.services/crypto-news",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://laso.finance/auth",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://rubric-protocol.com/v1/x402/hedera-facts/exchange-rate",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://quartermaster.surewhynot.app/v1/gas",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://www.api-xpay.com/x402/quote",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://crypto.apitoll.cloud/v1/crypto/price",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://edgar.apitoll.cloud/v1/edgar/filings",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agi.apify.com/protocols/x402/prepaid-tokens",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 1 on Base",
+  "codes": [
+   "asset_not_canonical_usdc"
+  ]
+ },
+ {
+  "url": "https://vibesprings.net/api/price/btc-usd",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://twitter.use.x402atlas.com/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://hypernatt.com/api/m2m/liq-radar",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.hyperextend.xyz/v1/candles/BTC/1m/latest",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": [
+   "scheme_unknown"
+  ]
+ },
+ {
+  "url": "https://api.onesource.io/api/chain/erc20-balance",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": [
+   "scheme_unknown"
+  ]
+ },
+ {
+  "url": "https://x402.clashofcoins.com/x402/cheap-health",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.loyalspark.online/x402-gateway/recipient-api/offers",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://web.cyberwarex.com/fetch",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://scvd.store/api/buy/spot_check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 6/6 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://omniterminal.app/api/x402/v1/news",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://search.cyberwarex.com/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.oblique.markets/api/v1/paid/base-block-number",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://headers.use.x402atlas.com/",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.aidress.ai/pay/agent_ottoai_crypto_news",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.urbangametheory.xyz/agent/oracle/facts",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: testnet",
+  "codes": [
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://hyperliquid-predict.use.x402atlas.com/outcomes",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://coil.trade/api/crypto/gate",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ, timeout_long",
+  "codes": [
+   "header_body_differ",
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://x402.botsmith.dev/x/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.kadec0.xyz/v1/papers",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://theartillerist.com/api/v1/x402-trial",
+  "verdict": "not_x402",
+  "status": 500,
+  "summary": "endpoint answered 500 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://kronossignals.com/api/v1/funding-extremes",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://onchainpulse.theaslangroupllc.com/api/facet/honeypot",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://x402.twit.sh/tweets/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.006 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://coingecko.use.x402atlas.com/price",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://contextslim.friczero.com/fetch",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: timeout_long",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://cloud.trycorpus.ai/v1/spot/export/history",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 3 on Base",
+  "codes": [
+   "amount_high",
+   "amount_high",
+   "timeout_long",
+   "amount_high",
+   "timeout_long",
+   "amount_high",
+   "timeout_long",
+   "amount_high",
+   "timeout_long",
+   "amount_high",
+   "timeout_long",
+   "amount_high",
+   "timeout_long",
+   "timeout_long",
+   "timeout_long",
+   "timeout_long",
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://weather.cyberwarex.com/forecast",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://google-trends.use.x402atlas.com/trend",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://wiki.use.x402atlas.com/summary",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://offercheck.offercheck.workers.dev/v1/read",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://appstore.use.x402atlas.com/product",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://horizonpulse.dev/api/pulse",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://news.apitoll.cloud/v1/cointelegraph/news",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.geoprimitives.dev/v1/marine/depth",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://cdp-agent-0-01.onrender.com/",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://lionx402.com/api/x402/wallet-screen-json",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://router.mudko.com/api/x402/route",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.robinx.io/feed/new",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api-dev-v2.ixs.finance/x402/vaults",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://brasil-dados-api.onrender.com/cambio",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.justaname.id/ens/v2/reverse",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent-guild-5d5r.onrender.com/flags",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.sniperx.fun/api/v1/token/activities/smarttraders_smartmoney",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://x402endpoint-utiwoa54hq-uc.a.run.app/auth",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: resource_host_mismatch",
+  "codes": [
+   "resource_host_mismatch"
+  ]
+ },
+ {
+  "url": "https://api.printmoneylab.com/api/v1/kr-prices",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.loopholetape.com/v1/launches/since",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.001 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://stabletravel.dev/api/google-flights/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent.massive.com/v2/reference/news",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://gas.apitoll.cloud/v1/base/gas",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://whaletape.xyz/coverage",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 5/5 option(s) pass; cheapest USDC 0.01 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://app.fortiblox.com/api/tokens",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://x402.problocks.io/paid/ping",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://simulate.cyberwarex.com/decode",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://base-gas-x402-production.up.railway.app/gas",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://energy.halowerk.com/demo/paid-sample",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://wallets-demo-seller-server.calebgcarithers.workers.dev/weather",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: testnet",
+  "codes": [
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://ip402.xyz/v1/geo",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 5/5 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://api.polyform.org/v1/threat/scanners",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://skycast.clawca.sh/weather",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-doctor.fizzl.eu/api/v1/preflight",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 6/6 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agentreader.dev/dns",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://chain.cyberwarex.com/block",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://www.getbags.app/api/v1",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://intel.degenscan.io/v1/pulse",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.asterpay.io/v1/market/price/bitcoin",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 6/6 option(s) pass; cheapest USDC 0.0075 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://tariffmonkee.com/paid/ping",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://tick.hugen.tokyo/tick/latest",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://toolcall.click/t/fx/rates",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.stocktrends.com/v1/prices/latest",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.0025 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://cyre.dev/api/gate",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://toolsmith-api.dassad10.workers.dev/t/web/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.008 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://dokimo.augaster.com/paid/verify",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent-reader.agent-reader.workers.dev/dns",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://multichain-rpc.clankerceo.workers.dev/balance",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": [
+   "svm_feepayer_missing"
+  ]
+ },
+ {
+  "url": "https://x402-seller.onrender.com/geo/lookup",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ozmium.org/v1/prices",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://jmt-x402-proxy.jmthomasofficial.workers.dev/v2/api/whois",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://torii-gateway-production.ichis-lab.workers.dev/v1/jp-biz-calendar/is-business-day",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://read.lonestaroracle.xyz/read",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://obol.danieldutoit.net/v1/base/network-status",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.mach.gallery/api/base/block-number",
+  "verdict": "block",
+  "status": 402,
+  "summary": "the 402 comes from the hosting platform (DEPLOYMENT_DISABLED), not from an x402 server: the service is down or suspended",
+  "codes": []
+ },
+ {
+  "url": "https://perpsignals.use.x402atlas.com/fear-greed",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://reddit.apitoll.cloud/v1/reddit/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://mcp.newstex.com/x402/trending",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://alest-x402.alest.workers.dev/v1/alst",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://payload402.edgebytenet.workers.dev/wiki/lookup",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://readx.sh/api/search/tweets",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ssl.use.x402atlas.com/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.tbs-digital.com/crypto/bundle",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-mcp.onrender.com/mn/property-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://squeezeos-api.onrender.com/api/web/read-markdown",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://orchard-data.letom1176.workers.dev/api/fear-greed",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://video.cyberwarex.com/transcript",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://intel.chainquery.com/v1/fee-pressure",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://toolrail.dev/vat/rates",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://4yearcycle.com/x402/web-search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.fenixfoundry.com/resolution",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.qist.info/api/hijri",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://audit.liquidlogicx.com/api/allowance",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://defillama.use.x402atlas.com/batch-historical",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-data-api.onrender.com/api/scrape",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.ukintel.uk/v1/company/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.you.com/v1/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://dataforagents.net/v1/steam/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://mysticapi.com/v1/sky/today",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://www.celerapi.com/v1/company/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://holdsup.app/api/v1/episodes",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.klimalabs.com/api/catalog",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.stelardigital.com/sentiment",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.kakerapetit.dev/v2/calendar",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://intel.twzrd.xyz/v1/intel/quick/:solana_address",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://dns.use.x402atlas.com/dnssec",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://macropulse.theaslangroupllc.com/api/market/is-open",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://api.vaults.fyi/v2/vaults",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": [
+   "scheme_unknown"
+  ]
+ },
+ {
+  "url": "https://evm-gas.apitoll.cloud/v1/evm/gas",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://www.x402financialdata.com/crypto-prices",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-adsb.x402-adsb-worker.workers.dev/aircraft",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://presign-guard.fizzl.eu/v1/token",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 6/6 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://data.finery.cc/v1/schools/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.brazilayer.com/v1/commodities/fogo",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://sanctions.cyberwarex.com/screen",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://insider-radar-agent.insider-radar-agent.workers.dev/v1/leaderboard",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://unwrap.use.x402atlas.com/",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.009 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.aestheticdata.io/x402/brands",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://council.cyberwarex.com/council",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://trust-agent.io/v1/verify/quick",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://rtt.phoenix-ai.work/api/v1/health",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://safe.cyberwarex.com/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.compliapi.com/api/v1/screen/website",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.interzoid.com/getfullnamematch",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://srv1334799.hstgr.cloud/v1/changes",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.rxatlas.dev/v1/drugs",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent-data-api.agentdata.workers.dev/v1/contracts/opportunities",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://straits.live/api/premium/brief",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://engine.beehivewebstudio.com/v1/utah-land",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402check.arden-instance.workers.dev/base/gas",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://signals.nsgoods.org/signals",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://japan-business-day-api.matchan962.workers.dev/v1/koyomi",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent402.tools/api/demand-radar",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agents.dyoeway.org/verify",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://webtools402.176-109-107-191.sslip.io/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://poketpoker.com/api/play/deal",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-endpoints.onrender.com/compliance/wallet-screen",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.payperbyte.io/feeds/weather",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.nsgoods.org/settle",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://hyperliquid.use.x402atlas.com/mids",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.lucidcove.org/v1/ping",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent-arcade.use.x402atlas.com/twenty-four/daily",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://lion-x402-bible.lionmaster-operations.workers.dev/api/x402/wallet-screen-json",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ads.apitoll.cloud/v1/ads/facebook/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://earthquakes.use.x402atlas.com/recent",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api-v2.ixs.finance/x402/vaults",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.dailyelo.com/v1/reliability/recent",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-data-api.sigrunner.workers.dev/defi/yields",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://svm402.com/price/:address",
+  "verdict": "not_x402",
+  "status": 410,
+  "summary": "endpoint answered 410 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://toll402.dev/v1/fx",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://store.agentexchange.work/chain/block-number",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.ochinimus.app/api/price",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.001 on Solana",
+  "codes": [
+   "scheme_unknown",
+   "scheme_unknown",
+   "scheme_unknown",
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://rates.lonestaroracle.xyz/rates",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://767-2676.com/v1/time",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-filings.datalayer.workers.dev/v1/safety/vin-decode",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.smartmoney.market/congress",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://nimbus.clawca.sh/weather",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://stablefinance.dev/api/news",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://gdelt.use.x402atlas.com/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-factory.com/v1/ping",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.nativebtc.org/v1/mempool/stream-ticket",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://holidays.use.x402atlas.com/list",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.jmthomasofficial.com/v2/api/edgar-company-lookup",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.orcatrace.dev/v1/latest",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://www.tereno.xyz/api/v1/capabilities/chain.snapshot/invoke",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.charliemorrison.dev/extract",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://xmedia.use.x402atlas.com/tweet",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://settled.tools/v1/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://hyperliquid-accounts.use.x402atlas.com/fees",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://geoip.bip-rep.com/lookup",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.eckari.com/v1/parcels/detect-carrier",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://grid.lonestaroracle.xyz/report",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://data.rcqsignals.com/v1/fetch/btc-funding-regime",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://open-pay.jp/api/paid/usdc/stablecoin-payments",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://regime.nsgoods.org/regime",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://space-weather.use.x402atlas.com/now",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://insider.lonestaroracle.xyz/trades",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://rest.coincap.io/v3/agentFriendly/full_assets_by_slug",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.telemost.io/v1/data/entities",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.0165 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://polymarket-signal-api.pwnker-polymarket-signals.workers.dev/v1/performance",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://mimirapi.com/v1/ping",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://randomfactsx402.vercel.app/api/random-fact",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://chain-analyzer.com/api/v1/x402/ping",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "svm_feepayer_missing"
+  ]
+ },
+ {
+  "url": "https://mcp.blocksize.info/v1/bidask/BTC-USD",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.002 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://recipients-paywall.onrender.com/episode/1",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://kaisha-api.hp-vladic.workers.dev/calendar/holidays",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://palmyr.ai/social/twitter/registered/mine",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://getrugshield.com/v1/token-risk/:address",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://netintel.dev/web/extract",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://stable.lonestaroracle.xyz/pulse",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://hotels.use.x402atlas.com/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://equity.lonestaroracle.xyz/equity",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://earnings.lonestaroracle.xyz/calendar",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.spendthebits.com/@stbclaudeprod/proof/",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://signalpulse.theaslangroupllc.com/api/scan/crypto-lite",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://trabotpro.it/api/a2a/x402/pearl/detail",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.04 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://metals.lonestaroracle.xyz/report",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.builtwith.com/agent/domain",
+  "verdict": "not_x402",
+  "status": 503,
+  "summary": "endpoint answered 503 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://orcpin.dev/v1/endpoint-reliability",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agentres.dev/api/discover/restaurants",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://energy.lonestaroracle.xyz/energy",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://youtube.use.x402atlas.com/transcript",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://africa.lonestaroracle.xyz/pulse",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://latam.lonestaroracle.xyz/report",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://hl-tool.darren-pi.workers.dev/v1/funding/extremes",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.tickerlayer.com/v1/markets/status",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.invoket.com/company/peppol",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://acoda.xyz/v1/market-state",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://email-auth.use.x402atlas.com/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://pro-api.coinmarketcap.com/x402/v3/cryptocurrency/quotes/latest",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 7/7 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://wallet-services-poc-clean-mainnet.3hz-services.workers.dev/fx-rate",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://arbipulse.theaslangroupllc.com/api/fx-premium",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://alphapipeline-eu.onrender.com/v1/derivatives/funding-rate",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-store.dgdb.workers.dev/v1/threats/recent",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://capitol.lonestaroracle.xyz/trades",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://staging.getbags.app/api/v1",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://cot.lonestaroracle.xyz/cot",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agentdataapi.onrender.com/launches",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://foundry-par007-machine-revenue-mainnet.inference-chip-index.workers.dev/v2/official/nhtsa-vin-decode",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://trader.rigoblock.com/api/quote",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://mcp.courtdelta.com/x402/lookup-court-case",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://law-mcp.toulaw.workers.dev/api/v1/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://tenderdelta-preview.mooncakemonkey1.workers.dev/x402/v1/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://whodeployed.wtf/v1/congress_tape",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://sanctions.nsgoods.org/screen-multi",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://stationfx.com/economic-data/cross-signal/real-federal-funds-rate",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.008 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://lion-x402.lionmaster-operations.workers.dev/api/x402/keyless-base-rpc-json",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.losbeto.xyz/llm",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.006 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://scry.solanahub.de/x402/wallet/:address/quick-flag",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.005 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://cyberpulse.theaslangroupllc.com/api/cyber/cve-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://api.powahub.ai/c8a77739168e44a4af26cc954c437460-cd/daily-stock-screen/v1/picks/today",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.solgiery.com/v1/random/bytes",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.007 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://tick.twzrd.xyz/sku/DIGITAL.ATOM.1",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://x402-crypto-data.vercel.app/api/yields",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://oracle.cyberwarex.com/verdict",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.marketintelligenceapi.com/api/v1/eu/fx",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 8/8 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": [
+   "asset_not_canonical_usdc",
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://macro.lonestaroracle.xyz/macro",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://sandbox.node4all.com/v1/x402-test",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: testnet",
+  "codes": [
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://hazard.lonestaroracle.xyz/hazard",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://registry.wickedapi.com/tools",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://supply.lonestaroracle.xyz/report",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://gamepulse.theaslangroupllc.com/api/esports/matches",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://x402-seller-pmlm.onrender.com/report",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 6/6 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://mcp.barker.money/barker_defi_vaults",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 6/6 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": [
+   "scheme_unknown"
+  ]
+ },
+ {
+  "url": "https://citepulse.theaslangroupllc.com/api/paper",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://squeeze.lonestaroracle.xyz/squeeze",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent-trust-layer.agent-trust-layer.workers.dev/verify",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://spark.lonestaroracle.xyz/power",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://www.x402scan.com/api/x402/merchants",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://compliancepulse.theaslangroupllc.com/api/validate/lei",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://tiktok.palmyr.ai/v1/accounts",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://analyst.lonestaroracle.xyz/ratings",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://harvestpulse.theaslangroupllc.com/api/harvest/dirty-dozen",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://voidfeed.ai/v1/content/fact-feed/latest",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://sovereign.lonestaroracle.xyz/sovereign",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.prereason.com/api/macro",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://minerals.lonestaroracle.xyz/minerals",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.m2msentinel.com/v1/dex/metrics",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://pennyregwatch.com/v1/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.004 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://402cron.com/buy/trial",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://transitpulse.theaslangroupllc.com/api/rights/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://market.561.group/v1/base-chain/gas-oracle",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://clinicalintelpulse.theaslangroupllc.com/api/clinical/trial-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://x402.glassnode.com/v1/metadata/metrics",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://kushbitx.com/api/agentproof-quick-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://402registry.com/buy/catalog",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.3route.io/v1/:chainId/quote",
+  "verdict": "not_x402",
+  "status": 404,
+  "summary": "endpoint answered 404 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://tollbooth-hello.sjwilliams8.workers.dev/hello",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://search.combify.app/fast",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://alpha402x.com/10q-highlights/AAPL",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent-reader.gm-tools.workers.dev/v1/meta",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://lookups.alienprobe.ai/v1/lookup/vin",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://flights.use.x402atlas.com/search/:departure/:arrival",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agents.nibiashara.biz/shelf/fx-official",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.agentstools.dev/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://oraclepost.higgsfield.app/api/time",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent-economy-signal-x402-mainnet.bronzetti-andrea.workers.dev/premium/agent-brief",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://bykaranteli.com/api/x402/liqmap-levels",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://parallax402.com/v1/window",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://buildscottsbluff.com/v1/census",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://giftpulse.theaslangroupllc.com/api/giftcard/catalog",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agentforge-taupe.vercel.app/v1/ping",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ai-data-marketplace-1042299154756.us-central1.run.app/api/v1/evm_block_number",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://gankdat.com/x402/data/uk-tenders",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.chainquery.com/v1/rpc/listbanned",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://schema.nsgoods.org/extractability",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://x402.cheetahsecurity.de/trust",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.gitbeacon.dev/v1/repos",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://trapcheck.dev/brief",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://imagegen.coinopai.com/prompt-styles",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.slamai.dev/chain/tokens/trending",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://stablecoinpulse.theaslangroupllc.com/api/depeg-tick",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://dwelldata.io/api/deals/basic",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://cryptyx.ai/api/signals/catalog",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.clawfetch.ai/extractors",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://compute.lonestaroracle.xyz/report",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.signalis.dev/v1/pulse/narratives",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.aurenic.org/treasury/debt",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.vetpulse.theaslangroupllc.com/api/vet/discounts",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://funds.lonestaroracle.xyz/funds",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://aizamon.com/x402/v1/bot-fuel",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.25 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://bcchildcare.getregisters.com/api/v1/records/:rid/purchase",
+  "verdict": "not_x402",
+  "status": 404,
+  "summary": "endpoint answered 404 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://computeindex.lonestaroracle.xyz/index",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://wallet-sanctions.use.x402atlas.com/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent-deals.gm-tools.workers.dev/v1/best",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://places.use.x402atlas.com/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://oi.lonestaroracle.xyz/oi",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://launches.lonestaroracle.xyz/scan",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://liquidity.lonestaroracle.xyz/liquidity",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://sanctions.lonestaroracle.xyz/screen",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://asia.lonestaroracle.xyz/pulse",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.polym.uk/resolution-risk",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://cycle.lonestaroracle.xyz/cycle",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://whale.lonestaroracle.xyz/whales",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://google-patents.use.x402atlas.com/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://marketdata.use.x402atlas.com/aggregates",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.015 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://packages.cfsoft.us/v1/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agentic-reservations.vercel.app/api/wait-times",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.speccy.cloud/v1/predictions/polymarket",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ichimoku-signal.fizzl.eu/signal/:pair",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 6/6 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://funding.lonestaroracle.xyz/rates",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.koreafilings.com/v1/disclosures/by-ticker",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.025 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://labor.lonestaroracle.xyz/labor",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.agentindex.world/agent-health",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://tenjin.sh/api/read/:handle/:slug",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://solar.nsgoods.org/solar-legality",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://europe.lonestaroracle.xyz/pulse",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://talentpulse.theaslangroupllc.com/api/talent/layoffs",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://x402-bazaar-rank.x402-bazaar-rank-worker.workers.dev/tags",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 9/9 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": [
+   "asset_not_canonical_usdc"
+  ]
+ },
+ {
+  "url": "https://sec.use.x402atlas.com/financials/:ticker",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.trialbase-db.org/v1/trials",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.webbersites.com/api/seo/alt-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ausrine-who.onrender.com/who/:target",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://slamlink-ai-main-50fbb45.d2.zuplo.dev/chain/tokens/trending",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.isocast.dev/v1/spot",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.demandex.dev/v1/opportunities/trending",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://bazaar-catalog.vercel.app/api/hijri",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.vindexapi.dev/v1/decode",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://gridpulse.theaslangroupllc.com/api/energy/battery",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://api.grid-hub.app/v1/map/snapshot",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ebay.use.x402atlas.com/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://aiagentoracle.ai/api/v1/tokens/movers",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.cogdepot.com/v1/feed",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "amount_high",
+   "amount_very_high"
+  ]
+ },
+ {
+  "url": "https://waterpulse.theaslangroupllc.com/api/water/gauge",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://data.greeneris.io/v1/wx/forecast",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://keystone-opportunity-api.keystone-opportunity.workers.dev/v1/opportunities",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://fresh-feeds.foomworks.workers.dev/feeds/mcp-registry/changes",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agents.alphaquantlabs.ai/v1/property",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.978874 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://shopperpulse.theaslangroupllc.com/api/safety/merchant",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://asiaref.dev/v1/all",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://filingspulse.theaslangroupllc.com/api/filings/quarterly",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://policypulse.theaslangroupllc.com/api/register",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://usaref.dev/v1/all",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.socialfetch.dev/v1/linkedin/posts/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.014 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://geld-machen-x402.fly.dev/product/image-ocr.json",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://racingpulse.theaslangroupllc.com/api/going",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://autopulse.theaslangroupllc.com/api/auto/vin-recall",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://www.agentfive.ai/api/acquire",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://payable.nsgoods.org/payable",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://wealthpulse.theaslangroupllc.com/api/wealth/bank-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://mtbandy--sec-ratio-engine-serve-app.modal.run/ratios",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://flat-rate-llm.kikoribera03.workers.dev/v1/util/sha256",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-boj-macro-snapshot.vercel.app/api/boj/macro-snapshot",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://quotient-api-gateway.onrender.com/api/v1/signals",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://vedetta.dethboy.com/v1/feed",
+  "verdict": "not_x402",
+  "status": 200,
+  "summary": "endpoint answered 200 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://ta.lonestaroracle.xyz/analyze",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://patentpulse.theaslangroupllc.com/api/patent/trademark",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.06 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://mizan-bazar.higgsfield.app/api/pagella/api.loyalspark.online",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://cryptopulse.theaslangroupllc.com/api/event-odds",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://x402-fuelprice-poc.theliminalguy.workers.dev/price",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.moltalyzer.xyz/api/moltbook/digests",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.basefeed.io/v1/ping",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.sirenic.eu/v1/associations/recherche",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ, asset_not_canonical_usdc",
+  "codes": [
+   "header_body_differ",
+   "asset_not_canonical_usdc"
+  ]
+ },
+ {
+  "url": "https://chainverdict.xyz/v1/data/block",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://agent-kg.ai/api",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "asset_not_canonical_usdc"
+  ]
+ },
+ {
+  "url": "https://globalrules-api.onrender.com/api/v1/country/BR/timezone",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.wallettriage.com/scan",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://dealpulse.theaslangroupllc.com/api/deals/store",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://store.advice-sky.net/api/advice",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://blockint.ai/api/v1/screen/:address",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402uselessfacts.vercel.app/api/useless-fact",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://paddock.finance/api/paddock/mcp/liveness",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://gibai.app/rank",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://govedge.lonestaroracle.xyz/opportunities",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.2 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://seoul-weather-402.fly.dev/weather/seoul/current",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://tollbooth-fdic-verify.sjwilliams8.workers.dev/verify",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://conflict.lonestaroracle.xyz/conflict",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://stockwaves.net/api/cn/pulse",
+  "verdict": "not_x402",
+  "status": 410,
+  "summary": "endpoint answered 410 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://climatepulse.theaslangroupllc.com/api/climate/smoke",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://api.obeliskapp.io/partner/v1/spy/ads",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://legalpulse.theaslangroupllc.com/api/legal/trademark-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.5 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://options.lonestaroracle.xyz/flow",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://defi.lonestaroracle.xyz/top-yields",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api2ls.com/api/gas",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://trading-perps.vercel.app/api/enso/indices",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://latamref.dev/v1/:country/:series",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.ftso-yggdrassil.com/v1/ticker/:symbol",
+  "verdict": "not_x402",
+  "status": 404,
+  "summary": "endpoint answered 404 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://polynews.news/api/v1/feed",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.biotechcatalystsentinel.com/v1/catalysts/upcoming",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.reloadpi.com/api/catalog/topups/regions",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.swaphunt.dev/v1/tools/price",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ausref.dev/v1/:country/:series",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://cascade.lonestaroracle.xyz/risk",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://news.lonestaroracle.xyz/news",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.nohumans.directory/v1/listings/:id/verdict",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://debtpulse.theaslangroupllc.com/api/debt/rights",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://kya.lonestaroracle.xyz/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://weather.agentic-jp.com/areas",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://enforcement.cfsoft.us/v1/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://47620.xyz/x/x402/stats",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "svm_feepayer_missing"
+  ]
+ },
+ {
+  "url": "https://agents.ai-rook.com/api/ip-lookup",
+  "verdict": "not_x402",
+  "status": 200,
+  "summary": "endpoint answered 200 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://fieldpulse.theaslangroupllc.com/api/planting-window",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://app.distro.media/api/public/news/by-slug/:pubSlug/:storySlug",
+  "verdict": "not_x402",
+  "status": 404,
+  "summary": "endpoint answered 404 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://smx.space/v1/markets/starcloud-orbital-compute-test/mid",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: testnet",
+  "codes": [
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://risk.yo.xyz/api/v1/agent/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://machineobserver.com/api/x402/history",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://trust-check.gm-tools.workers.dev/v1/address",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://signal.quickai.build/signal",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://realestate.lonestaroracle.xyz/report",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://portfolio.lonestaroracle.xyz/analyze",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 4/4 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://chainscout.lonestaroracle.xyz/whales",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://gateway.spraay.app/bittensor/v1/models",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: header_body_differ",
+  "codes": [
+   "header_body_differ"
+  ]
+ },
+ {
+  "url": "https://liq.lonestaroracle.xyz/liquidations",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.solsentry.app/x402/v1/holders/:solana_address",
+  "verdict": "not_x402",
+  "status": 404,
+  "summary": "endpoint answered 404 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://ladyfortunalx402.vercel.app/api/fortune",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://workers.miodiollc.com/v1/vault/:address",
+  "verdict": "not_x402",
+  "status": 400,
+  "summary": "endpoint answered 400 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://faultcode-diagnostic-mcp.bowling-anthony.workers.dev/v1/device/catalog/dtcs/P0300",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.006 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://mena.lonestaroracle.xyz/pulse",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://overwing.ai/api/x402/atlas/lookup",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://tradepulse.theaslangroupllc.com/api/trade/freight-rates",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://x402-test.genesisblock.ai/api/weather",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: testnet",
+  "codes": [
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://agent-market-one.vercel.app/v1/fed/calendar",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://pharma.lonestaroracle.xyz/catalysts",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://dappgrade.vercel.app/v1/score",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://onvexia.com/v1/topics/rank",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402dir.com/api/recommend",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://anime-intelligence.goodmy0312.workers.dev/v1/listing-match",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://afriref.dev/v1/all",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.babyblueviper.com/signals/full",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.031 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.commodities.sh/v1/price/CL",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://canary.countersignpay.com/v1/base/head",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://runwayoracle.com/v1/oracle/v3/sea-edge",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://cf-enforcement-check.cf-exclusion-check.workers.dev/v1/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-api-catalog.onrender.com/api/domain-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://italian-company-check-fdsbh7p2bq-oc.a.run.app/v1/x402/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://fanpulse.theaslangroupllc.com/api/fan/timeline",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://findpulse.theaslangroupllc.com/api/find/recall",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://edupulse.theaslangroupllc.com/api/edu/co-op-guide",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://api.x402intel.uk/x402-market",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://houjin.agentic-jp.com/stats",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://herbapulse.theaslangroupllc.com/api/herba/remedy",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://long.events/functions/v1/api-events",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 5/5 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": [
+   "scheme_unknown",
+   "scheme_unknown",
+   "scheme_unknown",
+   "scheme_unknown"
+  ]
+ },
+ {
+  "url": "https://agenteconomy.report/api/rating/:host",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://visa.orizn.app/api/x402/visa",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://safepulse.theaslangroupllc.com/api/safe/recall",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.08 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://pulse.theaslangroupllc.com/api/blueprint",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://collectablespulse.theaslangroupllc.com/api/collect/storage",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.08 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://marketplaceforaiagents.com/api/public/v1/google-search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://franchisepulse.theaslangroupllc.com/api/franchise/broker",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.08 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://mealpulse.theaslangroupllc.com/api/meal/dietary",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.08 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://scentpulse.theaslangroupllc.com/api/scent/note-profile",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.08 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://kbv-server-f7vfitmlkq-du.a.run.app/v1/business/search",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://biopulse.theaslangroupllc.com/api/bio/invasive",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.08 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://aisfleet.com/api/x402/v1/ais/vessels/:mmsi/port-calls",
+  "verdict": "not_x402",
+  "status": 404,
+  "summary": "endpoint answered 404 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://proppulse.theaslangroupllc.com/api/prop/rentbuy",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://immigrationpulse.theaslangroupllc.com/api/category-check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://remittancepulse.theaslangroupllc.com/api/remit/rate",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://horrorstoryapi.vercel.app/api/horror-story",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://insurepulse.theaslangroupllc.com/api/insure/renters",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.08 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://taxpulse.theaslangroupllc.com/api/tax/country",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://venturepulse.theaslangroupllc.com/api/startup/accelerator",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://homepulse.theaslangroupllc.com/api/home/smart",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.08 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://api.tokenplans.dev/plans/full",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://govspendpulse.theaslangroupllc.com/api/govspend/us-contracts",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.08 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://mudko.com/api/x402/batch-scan",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.donnyautomation.com/lei",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.apex-db.org/v1/apex",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://datastand.dev/api/bazaar/cheapest",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://seniorpulse.theaslangroupllc.com/api/senior/grief",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://x402-stablecoin-data-demo.ryan-ee4.workers.dev/v1/reports/stablecoin-bridge-flows",
+  "verdict": "warn",
+  "status": 402,
+  "summary": "payable with caveats: testnet",
+  "codes": [
+   "testnet"
+  ]
+ },
+ {
+  "url": "https://x402-seller.opencovenant.org/x402/passport/:asset",
+  "verdict": "not_x402",
+  "status": 503,
+  "summary": "endpoint answered 503 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://careerpulse.theaslangroupllc.com/api/career/wage-rights",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://travelpulse.theaslangroupllc.com/api/rights/check",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://grantpulse.theaslangroupllc.com/api/grant/federal",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://airdroppulse.theaslangroupllc.com/api/points/campaign-status",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://library.proofivy.com/cryptoslate_list",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.cryptoetfsentinel.com/v1/profiles/issuer",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.03 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ads.forgemesh.io/api/network/stats",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://regimeshift.xyz/api/v1/asset/btc/vrp",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.deepnets.ai/api/token-safety",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://marketpulse.theaslangroupllc.com/api/market/competitor-gap",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 12/12 option(s) pass; cheapest USDC 0.1 on Base",
+  "codes": [
+   "timeout_long"
+  ]
+ },
+ {
+  "url": "https://mechamanda.com/api/concerts",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://trade.lonestaroracle.xyz/trade",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://tools.bip-rep.com/quake",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://consumer.lonestaroracle.xyz/consumer",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.05 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://sports-predictor-api.fly.dev/api/v1/probabilities",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://almanac.locomot.io/cite",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://shield.vainplex.dev/api/cdp/check-password-range",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://brokenkey-api-link-tau.vercel.app/api/brokenkeyremapperlink",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.003 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://ot-intel-api.onrender.com/ot/gcc-bulletin",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://shelf.thirdmade.net/probe/nonce",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://5108-x402.community.iamstarchild.com/bazaar/crypto/price",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://toolvend.dev/vat",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.002 on Solana",
+  "codes": []
+ },
+ {
+  "url": "https://coinflip402.vercel.app/api/coinflip",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.cueframe.ai/v1/projects",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.xynaptic.io/v1/crypto-price",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://wintel.canopy.finance/x402/v1/threats",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://defi-signals.org/defi/funding-rates",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://bunnvault.xyz/api/vault/apy",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-stock-indicators.vercel.app/crypto-prices",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://raptor-base-yields.vercel.app/v1/yields",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://rng.sociologic.ai/random",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.x402agentic.ai/spend-guard",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://linklens-sand.vercel.app/api/inspect",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://machine-market-social-mainnet.machine-market.workers.dev/profile",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.008 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://www.robbiegeorgephotography.com/v1/query/atomic/robbie-george-biography-plate",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.005 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.lastlookdata.com/api/treasury/current",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 2/2 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": [
+   "asset_not_canonical_usdc"
+  ]
+ },
+ {
+  "url": "https://business-frameworks.matryoshka-paradigms.workers.dev/node/value/why",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.02 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://hivemindos-paid-agent-gateway.hivemindos.workers.dev/api/x402/catalog",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402-defi-signals.onrender.com/market/snapshot",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.liquidagent.ai/v1/signals",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 3/3 option(s) pass; cheapest USDC 0.007 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://fanfare.run/nba/teams",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://travel.forgemesh.io/api/fare-pulse",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.onlybots.shop/read",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://x402.fablerlabs.com/market/funding-spreads",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://vps.phoneagent.xyz/catalog",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.01 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.immuta.app/pulsechain/head",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.newsgurus.ai/x402/agents/status",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://api.tickersfeed.net/stock/:symbol",
+  "verdict": "not_x402",
+  "status": 404,
+  "summary": "endpoint answered 404 without payment, so it is not paywalled for GET",
+  "codes": []
+ },
+ {
+  "url": "https://api.node4all.com/v1/x402-test",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.002 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://signals.edge.report/v1/brief",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ },
+ {
+  "url": "https://www.moltbillboard.com/api/x402/placements",
+  "verdict": "ok",
+  "status": 402,
+  "summary": "payable: 1/1 option(s) pass; cheapest USDC 0.001 on Base",
+  "codes": []
+ }
+]

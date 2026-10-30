@@ -1,0 +1,171 @@
+{
+ "resources": 3000,
+ "hosts": 850,
+ "options": 8292,
+ "verdicts": {
+  "ok": 7313,
+  "warn": 976,
+  "block": 3
+ },
+ "finding_counts": {
+  "timeout_long": 626,
+  "asset_not_canonical_usdc": 143,
+  "scheme_unknown": 127,
+  "testnet": 34,
+  "amount_high": 20,
+  "svm_feepayer_missing": 13,
+  "eip712_domain_missing": 9,
+  "amount_very_high": 8,
+  "timeout_short": 3,
+  "asset_invalid": 2,
+  "payto_invalid": 1
+ },
+ "error_hosts": {
+  "payto_invalid": 1,
+  "asset_invalid": 2
+ },
+ "examples": {
+  "amount_high": [
+   {
+    "resource": "https://www.api-xpay.com/x402/rewrite",
+    "msg": "price is 10 USDC for one call"
+   },
+   {
+    "resource": "https://www.api-xpay.com/x402/sentiment",
+    "msg": "price is 10 USDC for one call"
+   },
+   {
+    "resource": "https://www.api-xpay.com/x402/keywords",
+    "msg": "price is 10 USDC for one call"
+   }
+  ],
+  "timeout_long": [
+   {
+    "resource": "https://api.exa.ai/search",
+    "msg": "maxTimeoutSeconds=604900: a signed authorization stays usable for over an hour"
+   },
+   {
+    "resource": "https://api.exa.ai/search",
+    "msg": "maxTimeoutSeconds=604900: a signed authorization stays usable for over an hour"
+   },
+   {
+    "resource": "https://api.exa.ai/search",
+    "msg": "maxTimeoutSeconds=604900: a signed authorization stays usable for over an hour"
+   }
+  ],
+  "scheme_unknown": [
+   {
+    "resource": "https://api.onesource.io/api/chain/erc20-balance",
+    "msg": "scheme \"batch-settlement\" is not exact/upto; most clients cannot pay it"
+   },
+   {
+    "resource": "https://api.onesource.io/api/chain/block-number",
+    "msg": "scheme \"batch-settlement\" is not exact/upto; most clients cannot pay it"
+   },
+   {
+    "resource": "https://api.onesource.io/api/chain/live-balance",
+    "msg": "scheme \"batch-settlement\" is not exact/upto; most clients cannot pay it"
+   }
+  ],
+  "asset_not_canonical_usdc": [
+   {
+    "resource": "https://api.bitrefill.com/x402/gift-cards/search",
+    "msg": "asset 0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9 is not the canonical USDC on Arbitrum One; verify the token before signing"
+   },
+   {
+    "resource": "https://api.bitrefill.com/x402/gift-cards/search",
+    "msg": "asset Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB is not the canonical USDC on Solana; verify the token before signing"
+   },
+   {
+    "resource": "https://agi.apify.com/protocols/x402/prepaid-tokens",
+    "msg": "asset Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB is not the canonical USDC on Solana; verify the token before signing"
+   }
+  ],
+  "amount_very_high": [
+   {
+    "resource": "https://api.bitrefill.com/x402/invoice/pay",
+    "msg": "price is 1000 USDC for one call"
+   },
+   {
+    "resource": "https://api.bitrefill.com/x402/invoice/pay",
+    "msg": "price is 1000 USDC for one call"
+   },
+   {
+    "resource": "https://api.bitrefill.com/x402/invoice/pay",
+    "msg": "price is 1000 USDC for one call"
+   }
+  ],
+  "testnet": [
+   {
+    "resource": "https://api.run402.com/tiers/v1/prototype",
+    "msg": "Base Sepolia is a testnet: payment has no real value, likely a misconfigured production endpoint"
+   },
+   {
+    "resource": "https://api.urbangametheory.xyz/agent/oracle/facts",
+    "msg": "Solana Devnet is a testnet: payment has no real value, likely a misconfigured production endpoint"
+   },
+   {
+    "resource": "https://omniterminal.app/api/x402/v1/news",
+    "msg": "Base Sepolia is a testnet: payment has no real value, likely a misconfigured production endpoint"
+   }
+  ],
+  "timeout_short": [
+   {
+    "resource": "https://api.insumermodel.com/v1/attest",
+    "msg": "maxTimeoutSeconds=20 is shorter than typical settlement latency"
+   },
+   {
+    "resource": "https://api.insumermodel.com/v1/trust",
+    "msg": "maxTimeoutSeconds=20 is shorter than typical settlement latency"
+   },
+   {
+    "resource": "https://api.insumermodel.com/v1/trust/batch",
+    "msg": "maxTimeoutSeconds=20 is shorter than typical settlement latency"
+   }
+  ],
+  "payto_invalid": [
+   {
+    "resource": "https://api.mach.gallery/api/base/block-number",
+    "msg": "payTo: EIP-55 checksum mismatch (typo or tampering)"
+   }
+  ],
+  "svm_feepayer_missing": [
+   {
+    "resource": "https://multichain-rpc.clankerceo.workers.dev/balance",
+    "msg": "Solana exact scheme normally needs extra.feePayer"
+   },
+   {
+    "resource": "https://chain-analyzer.com/api/v1/x402/ping",
+    "msg": "Solana exact scheme normally needs extra.feePayer"
+   },
+   {
+    "resource": "https://multichain-rpc.clankerceo.workers.dev/nft-metadata",
+    "msg": "Solana exact scheme normally needs extra.feePayer"
+   }
+  ],
+  "eip712_domain_missing": [
+   {
+    "resource": "https://fractalai.net.co/api/x402/witness",
+    "msg": "extra.name/extra.version missing; clients must guess the EIP-712 domain (expected \"USD Coin\"/\"2\")"
+   },
+   {
+    "resource": "https://fractalai.net.co/api/x402/verify-proof",
+    "msg": "extra.name/extra.version missing; clients must guess the EIP-712 domain (expected \"USD Coin\"/\"2\")"
+   },
+   {
+    "resource": "https://fractalai.net.co/api/x402/seal-cbom",
+    "msg": "extra.name/extra.version missing; clients must guess the EIP-712 domain (expected \"USD Coin\"/\"2\")"
+   }
+  ],
+  "asset_invalid": [
+   {
+    "resource": "https://api.blockchain.info/explorer-gateway-kt/x402/btc/address",
+    "msg": "asset: EIP-55 checksum mismatch (typo or tampering)"
+   },
+   {
+    "resource": "https://agents.allium.so/api/v1/developer/wallet/balances/history",
+    "msg": "asset: EIP-55 checksum mismatch (typo or tampering)"
+   }
+  ]
+ }
+}
